@@ -214,6 +214,7 @@ Adds a product to the catalog.
   "currency": "INR"
 }
 ```
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/02292181-9acb-4380-bb41-df1340e8c8ed" />
 
 ---
 
@@ -252,8 +253,9 @@ cheap iphone
 latest samsung
 budget laptop
 iphone cover
-```
-
+`
+``
+<img width="1917" height="948" alt="image" src="https://github.com/user-attachments/assets/ed54886b-b52f-4838-9f63-aa73de3f2a59" />
 ---
 
 ## 🧮 Ranking Algorithm Explained
