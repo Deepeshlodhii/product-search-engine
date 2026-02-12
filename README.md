@@ -123,6 +123,8 @@ Client → FastAPI → Ranking Engine → In-Memory Database
 - **Uvicorn**
 
 ---
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ce4cd7cb-9609-4222-bb59-b2e06786d605" />
+
 
 ## 📦 Installation Guide
 
